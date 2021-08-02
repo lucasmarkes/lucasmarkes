@@ -1,7 +1,8 @@
-### Ola seres humanos! Eu sou Lucas Marques 👋
+### Heu There! I'm Lucas Marques 👋
 
-- 🔭 Sou estudande de Ciência da Computação na CESAR School
-- 🌱 Estou atualmente aprendendo Ruby & Ruby on Rails
+- 🔭 Computer Science Student at CESAR School & Hacking Enthusiast.
+- 🌱 Current learning Ruby | Ruby On Rails.
+- 🗺️ Living in Recife, Pernambuco.   
  ##
  <div>
   <a href="https://github.com/lucasmarkes">
