@@ -1,7 +1,7 @@
-### { Hey There! I'm Lucas Marques } 👋
+### </ Hey There! I'm Lucas Marques >
 
 - 🔭 Computer Science Student at CESAR School & Hacking Enthusiast.
-- 🌱 Currently learning Ruby | Ruby On Rails.
+- 🌱 Currently learning Ruby On Rails.
 - 🗺️ Living in Recife, Pernambuco.   
  ##
  <div>
