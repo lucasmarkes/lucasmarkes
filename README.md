@@ -1,4 +1,4 @@
-### </ Hey There! I'm Lucas Marques >
+### <p> Hey There! I'm Lucas Marques </p>
 
 - 🔭 Computer Science Student at CESAR School & Hacking Enthusiast.
 - 🌱 Currently learning Ruby On Rails.
