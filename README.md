@@ -1,4 +1,4 @@
-### <p> Hey There! I'm Lucas Marques </p>
+### <p> Hey There! I'm Lucas Marques  <img src=”https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif”> </p>
 
 - 🔭 Computer Science Student at CESAR School & Hacking Enthusiast.
 - 🌱 Currently learning Ruby On Rails.
@@ -11,7 +11,7 @@
 </div>
   
  
-### <p>Languages I've worked with</p>
+### <p>Languages I've worked with:</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
