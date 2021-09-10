@@ -1,4 +1,4 @@
-### <p> Hey There! I'm Lucas Marques <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px" padding-left="15px"> </p>
+### <p> Hey There! I'm Lucas Marques <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"> </p>
 
 - 🔭 Computer Science Student at CESAR School & Hacking Enthusiast.
 - 🌱 Currently learning Ruby On Rails.
