@@ -2,7 +2,8 @@
 
 - 🔭 Computer Science Student at CESAR School & Hacking Enthusiast.
 - 🌱 Currently learning Ruby On Rails.
-- 🗺️ Living in Recife, Pernambuco.   
+- 🌍 Living in Recife, Pernambuco. 
+- 🗣️ I speak Portuguese and English (reading and writing).
  ##
  <div>
   <a href="https://github.com/lucasmarkes">
