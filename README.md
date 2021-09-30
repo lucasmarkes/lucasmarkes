@@ -1,6 +1,6 @@
 ### <p> Hey There! I'm Lucas Marques <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"> </p>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw"/> Computer Science Student at CESAR School & Hacking Enthusiast.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw"/> Computer Science Student at CESAR School & Hacking Enthusiast.
 - 🌱 I'm *Currently* learning **Ruby On Rails**.
 - 🌍 Living in Recife, Pernambuco. 
 - 🗣️ I speak Portuguese and English (reading and writing).
