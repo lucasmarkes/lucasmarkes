@@ -1,9 +1,9 @@
 ### <p> Hey There! I'm Lucas Marques <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px"> </p>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw"/> Computer Science Student at CESAR School & Hacking Enthusiast.
-- 🌱 I'm *Currently* learning **Ruby On Rails**.
-- 🌍 Living in Recife, Pernambuco. 
-- 🗣️ I speak Portuguese and English (reading and writing).
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I'm *Currently* learning **Ruby On Rails**.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Living in Recife, Pernambuco. 
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I speak Portuguese and English (reading and writing).
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
  ##
  <div>
