@@ -1,5 +1,5 @@
 # Lucas Marques <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> </p>
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="160" />
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw"/> Computer Science Student at CESAR School & Hacking Enthusiast.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I'm *Currently* learning **Ruby On Rails**.
@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarkes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<br>
   
  
 ### <span>Languages I've worked with:</span>
