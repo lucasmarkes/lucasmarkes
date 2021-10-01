@@ -1,5 +1,4 @@
 # Lucas Marques <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30px"> </p>
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="160" />
 
 - Computer Science Student at CESAR School & Hacking Enthusiast.
 - I'm *Currently* learning **Ruby On Rails**.
