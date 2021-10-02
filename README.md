@@ -3,7 +3,7 @@
 - Computer Science Student at CESAR School & Hacking Enthusiast.
 - I'm *Currently* learning **Ruby On Rails**.
 - Living in Recife, Pernambuco. 
-- I speak Portuguese and English (reading and writing).
+- I speak Portuguese(fluent) and English (reading and writing).
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
  ##
  <div>
