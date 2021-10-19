@@ -7,6 +7,14 @@
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
  ##
  
+
+
+ <div>
+  <a href="https://github.com/lucasmarkes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarkes&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
  ### <span>Languages I've worked with:</span>
 
 <div style="display: inline_block"><br>
@@ -17,14 +25,8 @@
   <img align="center" alt="Lucas-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
  <br>
 </div>
-
- <div>
-  <a href="https://github.com/lucasmarkes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarkes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-  ##
+ 
+ ##
  # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
  <div>
   <br>
