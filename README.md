@@ -5,9 +5,6 @@
 - Living in Recife, Pernambuco. 
 - I speak Portuguese (fluent) and English (reading and writing).
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
- ##
- 
-
 
  <div>
   <a href="https://github.com/lucasmarkes">
