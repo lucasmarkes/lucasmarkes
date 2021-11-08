@@ -5,7 +5,7 @@
 - Computer Science Student at CESAR School & Hacking Enthusiast.
 - Living in Recife, Pernambuco. 
 - I speak Portuguese (fluent) and English (reading and writing).
-###
+
  <div>
   <a href="https://github.com/lucasmarkes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
