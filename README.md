@@ -2,9 +2,9 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- Computer Science Student at CESAR School & Hacking Enthusiast.
-- Living in Recife, Pernambuco. 
-- I speak Portuguese (fluent) and English (reading and writing).
+- _Computer Science Student at CESAR School & Hacking Enthusiast._
+- _Living in Recife, Pernambuco._ 
+- _I speak **Portuguese** (fluent) and **English** (reading and writing)._
 
  <div>
   <a href="https://github.com/lucasmarkes">
