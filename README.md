@@ -1,14 +1,14 @@
-## Hello World! I'm Lucas Marques <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
+<h1 align="left"> Hello World! I'm Lucas Marques <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> </h1>
 
 
 <!-- https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif -->
 <!--![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
 <!-- <img src='https://cdn.commaful.com/media/public/images/8dfb0f68-9ee2-c2c1-8963-5b84dde6007f-1593167882297.gif'>-->
 
-## **About me**: 
-- _Computer Science Student at CESAR School & Hacking Enthusiast._
-- _Living in Recife, Pernambuco._ 
-- _I speak **Portuguese** (fluent) and **English** (reading and writing)._
+- 📝 Computer Science Student at CESAR School & Hacking Enthusiast.
+- 💻 Intern at [CESAR.LABS](http://www.cesarlabs.com/)
+- 🗺️ Living in Recife, Pernambuco.
+- 💬 I speak **Portuguese** (fluent) and **English** (reading and writing).
 
  <div>
   <a href="https://github.com/lucasmarkes">
