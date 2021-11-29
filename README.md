@@ -13,6 +13,9 @@
 
 - 💬 I speak **Portuguese** (fluent) and **English** (reading and writing).
 
+<br><br>
+
+
  <div>
   <a href="https://github.com/lucasmarkes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
