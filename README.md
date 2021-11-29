@@ -15,11 +15,6 @@
 
 <br><br>
 
- <div>
-  <a href="https://github.com/lucasmarkes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarkes&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
 ## 🛠 &nbsp;Languages I've worked with
 
 
@@ -30,6 +25,13 @@
   <img align="center" alt="Lucas-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Lucas-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </div>
+
+ <div>
+  <a href="https://github.com/lucasmarkes">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarkes&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
  
  ### Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
  <div>
