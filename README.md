@@ -3,7 +3,7 @@
 
 <!-- https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif -->
 <!--![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) -->
-<img src='https://cdn.commaful.com/media/public/images/8dfb0f68-9ee2-c2c1-8963-5b84dde6007f-1593167882297.gif'>
+<!-- <img src='https://cdn.commaful.com/media/public/images/8dfb0f68-9ee2-c2c1-8963-5b84dde6007f-1593167882297.gif'>-->
 
 ## **About me**: 
 - _Computer Science Student at CESAR School & Hacking Enthusiast._
