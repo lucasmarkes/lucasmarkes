@@ -10,7 +10,7 @@
 - 💻 Intern at [CESAR.LABS](http://www.cesarlabs.com/)
 
 - 🗺️ Living in Recife, Pernambuco.
--
+
 - 💬 I speak **Portuguese** (fluent) and **English** (reading and writing).
 
  <div>
