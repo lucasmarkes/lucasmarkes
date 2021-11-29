@@ -26,6 +26,8 @@
   <img align="center" alt="Lucas-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </div>
 
+<br><br>
+
  <div>
   <a href="https://github.com/lucasmarkes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmarkes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
