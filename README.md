@@ -13,7 +13,7 @@
 
 - 💬 I speak **Portuguese** (fluent) and **English** (reading and writing).
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Languages I've worked with
 <div style="display: inline_block"><br>
