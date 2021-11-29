@@ -6,8 +6,11 @@
 <!-- <img src='https://cdn.commaful.com/media/public/images/8dfb0f68-9ee2-c2c1-8963-5b84dde6007f-1593167882297.gif'>-->
 
 - 📝 Computer Science Student at CESAR School & Hacking Enthusiast.
+ 
 - 💻 Intern at [CESAR.LABS](http://www.cesarlabs.com/)
+
 - 🗺️ Living in Recife, Pernambuco.
+-
 - 💬 I speak **Portuguese** (fluent) and **English** (reading and writing).
 
  <div>
