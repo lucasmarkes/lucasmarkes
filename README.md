@@ -35,7 +35,7 @@
 </p>
 <br>
 
-## 📧 &nbsp; Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## 📧 &nbsp; Connect with me
  <div>
    <a href="https://www.linkedin.com/in/lucasmarkes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lama@cesar.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
