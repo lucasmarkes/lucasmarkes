@@ -28,7 +28,6 @@
   <img align="center" alt"Lucas-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt"Lucas-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt"Lucas-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt"Lucas-git" height="30" width="40" src="https://github.com/devicons/devicon/edit/master/icons/git/git-original.svg">
   <img align="center" alt"Lucas-graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt"Lucas-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt"Lucas-materialui" height="30" width="40" src="https://github.com/devicons/devicon/edit/master/icons/materialui/materialui-original.svg">
