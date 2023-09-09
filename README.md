@@ -7,7 +7,7 @@
 
 - 📝 Computer Science Student at CESAR School.
  
-- 💻 Software Engineer Intern at [CESAR](https://www.cesar.org.br/)
+- 💻 Software Engineer at [CESAR](https://www.cesar.org.br/)
 
 - 🗺️ Living in Recife, Pernambuco.
 
