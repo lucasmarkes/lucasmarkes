@@ -1,4 +1,4 @@
-<h3 align="left"> Hey! I'm Lucas Marques =)> </h3>
+<h3 align="left"> Hey! I'm Lucas Marques =) </h3>
 
 - 📝 Computer Science BSc.
  
