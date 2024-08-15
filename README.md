@@ -1,4 +1,4 @@
-<h3 align="left"> Hey! I'm Lucas Marques <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> </h3>
+<h3 align="left"> Hey! I'm Lucas Marques =)> </h3>
 
 - 📝 Computer Science BSc.
  
