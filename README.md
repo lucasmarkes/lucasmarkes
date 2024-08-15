@@ -4,6 +4,6 @@
  
 - 💻 Software Engineer at [CESAR](https://www.cesar.org.br/)
 
-- 🗺️ Portuguese (Native) | English (Work Prificiency).
+- 🗺️ Portuguese (Native) | English (Work Proficiency).
 
 <br>
