@@ -25,8 +25,8 @@
 
 ```javascript
 {
-  currentWork: "Junior Software Engineer 👨‍💻",
-  currentLearning: "Exploring the JavaScript Ecosystem 🚀",
+  working: "Junior Software Engineer 👨‍💻",
+  learning: "Exploring the JavaScript Ecosystem 🚀",
   freeTime: "Improving my English skills 🌍"
 }
 ```
