@@ -20,9 +20,14 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-  Hey! I'm Lucas Marques!<br><br>
+  Hey! I'm Lucas Marques!<br
 </p>
 
+- Junior Software Engineer 👨‍💻
+- Exploring the JavaScript Ecosystem 🚀
+- Improving my English skills 🌍
+
+<!--
 ```javascript
 {
   working: "Junior Software Engineer 👨‍💻",
@@ -30,6 +35,7 @@
   freeTime: "Improving my English skills 🌍"
 }
 ```
+-->
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
