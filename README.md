@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="right" height="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"  />
+<img align="right" height="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" style="margin-left: 20px;" />
 
 ###
 
-<div align="left">
+<div align="left" style="width: 200px">
   <a href="https://www.linkedin.com/in/lucasmarkes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -23,9 +23,9 @@
 
 ```javascript
 {
-  work: 'Junior Software Engineer',
-  learning: 'JavaScript Ecosystem',
-  freeTime: 'Do english lessons'
+  currentWork: "Junior Software Engineer 👨‍💻",
+  currentLearning: "Exploring the JavaScript Ecosystem 🚀",
+  freeTime: "Improving my English skills 🌍"
 }
 ```
 ###
