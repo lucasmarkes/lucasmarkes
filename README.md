@@ -1,6 +1,8 @@
 <br clear="both">
-
+<!--
 <img align="right" height="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" style="margin-left: 20px;" />
+-->
+<img align="right" height="400" src="https://github.com/user-attachments/assets/a0c761bf-cd9d-46cd-a997-696096bf9933" />
 
 ###
 
