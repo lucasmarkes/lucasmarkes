@@ -23,7 +23,7 @@
   Hey! I'm Lucas Marques!<br
 </p>
 
-- Junior Software Engineer 👨‍💻
+- Software Engineer 👨‍💻
 - Exploring the JavaScript Ecosystem 🚀
 - Improving my English skills 🌍
 
