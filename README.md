@@ -38,7 +38,7 @@
 </p>
 
 <!-- Fun fact ou filosofia -->
-## 🎶 Recently Played Song:
+##
 <div style="min-width: 270px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=v90e91ahroref6mic4x6mjfux&count=1&unique=true" alt="Spotify recently played" height="90" />
 </div>
