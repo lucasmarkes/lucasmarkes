@@ -4,7 +4,7 @@
 <!-- Sobre mim -->
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-  I'm a <strong>Software Engineer</strong> with a passion for <strong>Front-End development</strong>.<br />
+  I'm a <strong>Software Engineer</strong> with a passion for <strong>UI Development</strong>.<br />
   I specialize in building responsive, accessible and interactive web interfaces.<br />
   I also love sharing what I learn and embracing the philosophy of <strong>build in public</strong> 🚀.
 </p>
