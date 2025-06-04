@@ -2,15 +2,15 @@
 <h1 align="left">Sup! I'm Lucas Marques 👋</h1>
 
 <!-- Sobre mim -->
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 <p align="left">
-  I'm a <strong>Software Engineer</strong> with a passion for <strong>UI Development</strong>.<br />
-  I specialize in building responsive, accessible and interactive web interfaces.<br />
-  I also love sharing what I learn and embracing the philosophy of <strong>build in public</strong> 🚀.
+  I'm a <strong>Software Engineer</strong> passionate about <strong>UI Development</strong>, specializing in building responsive, accessible, and interactive web interfaces. I love sharing what I learn and embrace the philosophy of build in public 🚀.
 </p>
 
+##
+
 <!-- Tecnologias -->
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 <kbd>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="16" style="vertical-align: middle; margin-right: 4px;" />
   JavaScript
@@ -28,14 +28,7 @@
   Node.js
 </kbd>
 
-
-<!-- Contato -->
-<h3 align="left">📫 Let's Connect</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasmarkes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+<br />
 
 <!-- Fun fact ou filosofia -->
 ##
